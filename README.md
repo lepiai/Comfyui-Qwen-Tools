@@ -3,7 +3,7 @@
 
 2、安装本插件
 a、拷贝到comfyui/custom_nodes目录下
-b、git clone 
+b、git clone https://github.com/lepiai/Comfyui-qwen-image-edit-api.git
 重启comfyui即可
 
 
