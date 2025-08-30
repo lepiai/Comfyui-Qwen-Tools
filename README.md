@@ -1,9 +1,13 @@
 1、在阿里云百炼获取api-key，https://bailian.console.aliyun.com/?tab=model#/api-key
+
 注意，新用户使用qwen-image-edit模型只有100次免费额度。
 
 2、安装本插件
+
 a、拷贝到comfyui/custom_nodes目录下
+
 b、git clone https://github.com/lepiai/Comfyui-Qwen-Tools.git
+
 重启comfyui即可
 
 
